@@ -33,6 +33,8 @@ Unity Catalog stores all assets in a 3-level namespace:
 2. schema
 3. assets like tables, volumes, functions, etc.
 
+![UC 3 Level](./assets/images/uc-3-level.png)
+
 The UC server is pre-populated with a few sample catalogs, schemas, Delta tables, etc.
 
 Let's start by listing the catalogs using the CLI.
